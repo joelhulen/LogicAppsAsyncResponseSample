@@ -149,6 +149,7 @@
     <Content Include="Service References\Application Insights\ConnectedService.json" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\AsyncResponse20160201122425 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\NewClassroomsLogicAppTest - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
